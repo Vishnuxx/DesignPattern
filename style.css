@@ -1,0 +1,15 @@
+body {
+    font-size: 15pt;
+}
+
+#editor{
+  height:300px;
+  width:300px;
+  background: lightgrey;
+}
+
+button{
+  padding:8px;
+  background:white;
+  box-shadow: 1px;
+}
